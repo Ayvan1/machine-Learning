@@ -1,6 +1,6 @@
 # Abgabe Informationen
-- Vorname: Tchoudji Dibatchou
-- Name: Aymar Vanel
+- Vorname: Aymar Vanel
+- Name: Tchoudji Dibatchou
 - Email: inf3918@hs-worms.de
 - Kurs: Machine Learning
 - Semester: WS 23/24
